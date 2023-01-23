@@ -1,9 +1,6 @@
-- title: Email
-  url: mailto://vszhub@gmail.com
-  icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://twitter.com/Thre3Month
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/ThreeMonth03/not-pure-poole
   icon: fab fa-github
