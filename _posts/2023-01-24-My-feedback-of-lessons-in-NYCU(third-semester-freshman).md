@@ -8,7 +8,6 @@ toc:  true
 ---
 
 # Preface:
-
 I didn’t expect to take three courses this semester. Due to the withdrawal of Physics(I)(II), I had to retake physics(I)(II). Moreover, I wanted to take Computer Graphics in first semester sophomore year; nevertheless, the prerequisite of Computer Graphics is Basic Programming, but I hadn’t passed the subjects. Thus, I chose Physics(I)(II) and Basic Programming this semester.
 
 # Core Subjects in CS:
