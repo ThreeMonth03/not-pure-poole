@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 升大三暑假修課心得
+title: My feedback lessons in NYCU(first semester sophomore)
 date: 2021-06-16 23:19 +0800
 last_modified_at: 2023-01-24 01:08:26 +0800
 tags: [修課心得]
