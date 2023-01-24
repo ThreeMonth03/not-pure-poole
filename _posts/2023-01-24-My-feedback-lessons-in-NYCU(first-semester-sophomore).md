@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 升大三暑假修課心得
-date: 2022-12-14 23:19 +0800
+date: 2021-06-16 23:19 +0800
 last_modified_at: 2023-01-24 01:08:26 +0800
 tags: [修課心得]
 toc:  true
@@ -51,6 +51,7 @@ Grading Policy:
 Comment:
 
     Although it is an intermediate subject in CS, in my viewpoint, it is not good enough to be selected. The slides were merely composed of pictures, and the textbook was not related to the slides. Thus, if I didn’t realize what the lecturer expressed, I would not realize, either. Moreover, the goal of final project was making a 20-second clip, and it was not suitable for normal people. Someone in the project implemented the algorithm of ray tracing, and I just finished the following video. Mmm... All in all, I don’t suggest that people without zealousness choose the course.
+    {% youtube S1OJv71tOFg %}
 
 
 ## Introduction to Multimedia Information System(多媒體資訊系統概論)
