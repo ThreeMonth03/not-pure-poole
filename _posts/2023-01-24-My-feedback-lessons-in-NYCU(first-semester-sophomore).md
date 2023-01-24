@@ -52,9 +52,6 @@ Comment:
 
 Although it is an intermediate subject in CS, in my viewpoint, it is not good enough to be selected. The slides were merely composed of pictures, and the textbook was not related to the slides. Thus, if I didn’t realize what the lecturer expressed, I would not realize, either. Moreover, the goal of final project was making a 20-second clip, and it was not suitable for normal people. Someone in the project implemented the algorithm of ray tracing, and I just finished the following video. Mmm... All in all, I don’t suggest that people without zealousness choose the course.
 
-{% youtube S1OJv71tOFg %}
-
-
 ## Introduction to Multimedia Information System(多媒體資訊系統概論)
 
 Semester:2020–Fall (DCP)
