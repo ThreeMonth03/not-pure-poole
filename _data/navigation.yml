@@ -1,5 +1,6 @@
 - title: About Me
-  url: /about/
+  url: /about_me/
 - title: Blog
   url: /
-
+- title: Note
+  url: /note/
