@@ -7,3 +7,6 @@
 - title: GitHub
   url: https://github.com/ThreeMonth03
   icon: fab fa-github
+- title: Email
+  url: mailto://austin20463@gmail.com
+  icon: fas fa-envelope
